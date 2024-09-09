@@ -1,5 +1,9 @@
 # Vital Care - Patient Management System
 
+ <p align="center">
+   <img src="VitalCare.jpg" width="350" height="250" >
+ </p>
+
 **Streamline patient registration, appointment scheduling, and medical records.**  
 Built with `Next.js`, `TypeScript`, `Twilio`, and `TailwindCSS`.
 
