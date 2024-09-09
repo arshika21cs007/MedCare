@@ -1,7 +1,7 @@
 # Vital Care - Patient Management System
 
  <p align="center">
-   <img src="VitalCare.jpg" width="350" height="250" >
+   <img src="Vitalcare.png" width="500" height="300" >
  </p>
 
 **Streamline patient registration, appointment scheduling, and medical records.**  
